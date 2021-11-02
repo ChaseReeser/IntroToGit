@@ -1,7 +1,4 @@
-<!--
 
-Author: Chase Reeser
-Date: 11/02/2021
-Project: IntroToGit
-
--->
+# Author: Chase Reeser
+# Date: 11/02/2021
+# Project: IntroToGit
